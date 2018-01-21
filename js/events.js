@@ -1,4 +1,4 @@
-//define functions here
+$("p").ready(function).click//define functions here
 
 $(document).ready(function(){
 
